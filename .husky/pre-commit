@@ -1,4 +1,2 @@
 cd frontend
-yarn lint
-yarn format
 yarn lint-staged
